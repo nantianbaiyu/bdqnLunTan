@@ -96,7 +96,7 @@ ${requestScope.entries}
 	   <span>
 	    <a href="/" target="_blank">武魂大罗</a>
 		 <a href="/" target="_blank">装逼大神</a>
-		 <a href="/" target="_blank">屌毛推荐</a>
+		 <a href="/" target="_blank">张妮大神</a>
 	   </span>	 
 	    文章推荐
 	   </h2>
