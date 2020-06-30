@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="commons-dbutils-1.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../邹磊/jar/web资源（提供给学员）/commons-dbutils-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../邹磊/jar/web资源（提供给学员）/Eclipse架包/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../邹磊/jar/web资源（提供给学员）/Eclipse架包/javaee-api-7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../邹磊/jar/web资源（提供给学员）/Eclipse架包/javax.mail-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../邹磊/jar/web资源（提供给学员）/Eclipse架包/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../邹磊/jar/web资源（提供给学员）/Eclipse架包/jstl-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../邹磊/jar/web资源（提供给学员）/Eclipse架包/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../邹磊/jar/web资源（提供给学员）/Eclipse架包/sqljdbc4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../邹磊/jar/web资源（提供给学员）/Eclipse架包/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
